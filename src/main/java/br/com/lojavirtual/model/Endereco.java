@@ -14,7 +14,7 @@ public class Endereco implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_acesso")
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_endereco")
     private Integer id;
     private String ruaLogra;
     private String cep;
