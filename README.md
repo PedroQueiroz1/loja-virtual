@@ -15,7 +15,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-   Esse vai ser o maior projeto que já fiz, implementando tudo o que aprendi.
+   Esse vai ser o maior projeto que já realizado por mim, implementando tudo o que aprendi.
 </p>
  
 ## Ferramentas utilizadas
